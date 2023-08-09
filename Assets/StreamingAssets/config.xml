@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<evaluation>
+  <novelty_detection_measurement step="1" measure_in_training="True" measure_in_testing="True" />
+  <trials>
+    <trial id="1" number_of_executions="1" checkpoint_time_limit="200" checkpoint_interaction_limit="200" notify_novelty="False">
+      <game_level_set mode="training" time_limit="1" total_interaction_limit="60000" attempt_limit_per_level="1" allow_level_selection="True">
+        
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingObjectNovel_143425416_0_1.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingObjectNovel_143425416_1_1.xml" />
+		
+		        
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingObjectNovel_554308753_0_2.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingObjectNovel_554308753_1_2.xml" />
+		
+        
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingFallingObjectNovel_533549854_0_2.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingFallingObjectNovel_533549854_1_2.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingFallingObjectNovel_542227383_0_2.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\RollingFallingObjectNovel_542227383_1_2.xml" />
+		
+		 <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_358273367_0_4.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_358273367_1_4.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_149435113_0_3.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_149435113_1_3.xml" />
+		
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_358452360_0_4.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_358452360_1_4.xml" />
+		
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_359487695_0_4.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_359487695_1_4.xml" />
+		
+		  
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_359319298_0_4.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_359319298_1_4.xml" />
+		
+		  
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_109210395_0_0.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_109210395_1_0.xml" />
+		
+		
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_120161540_0_0.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_120161540_1_0.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_129244267_0_0.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_129244267_1_0.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_709004661_0_0.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\FallingObjectNovel_709004661_1_0.xml" />
+		
+	  
+	  
+	     <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_221124009_0_2.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_221124009_1_2.xml" />
+		
+	     <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_228447675_0_2.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_228447675_1_2.xml" />
+		
+	  
+	  
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_327002028_0_1.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_327002028_1_1.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_535233571_0_1.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_535233571_1_1.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_536244308_0_1.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_536244308_1_1.xml" />
+		
+		<game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_553522929_0_1.xml" />
+        <game_levels level_path="E:\simple-novelty-generator\sciencebirds_novelty_generator\Assets\StreamingAssets\Levels\novelty_level_0\type150\Levels\SlidingObjectNovel_553522929_1_1.xml" />
+		
+		
+      </game_level_set>
+    </trial>
+  </trials>
+</evaluation>

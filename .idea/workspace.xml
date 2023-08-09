@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="156bcf8b-0768-4806-b1fd-9a21d67c92c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GroundTruth/GTNoise.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GroundTruth/GTNoise.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GroundTruth/SymbolicGameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GroundTruth/SymbolicGameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RepresentationNovelty.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RepresentationNovelty.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnitTest/GroundTruthTests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnitTest/Novelty.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnitTest/TestHarness.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iCzOAqeq3lrY6KHzRRgBfaykLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1054" y="263" width="649" height="522" key="find.popup" timestamp="1601434230264">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="1054" y="263" width="649" height="522" key="find.popup/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1601434230264" />
+  </component>
+</project>

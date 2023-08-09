@@ -1,0 +1,3 @@
+[submodule "level_generator"]
+	path = level_generator
+	url = https://gitlab.com/sail-on-anu/levelgenerator.git

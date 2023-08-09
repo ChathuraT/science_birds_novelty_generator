@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3810243294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 744d69b9fdfe1f6221bdc1957c6217c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f477684156fcdc8ce6523f01394f2242
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35a31985278c4b21e9e8b7577d4684e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1496dfd57e5ea402e9851887ca688cd3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animations/Bird/BirdUgly/bird_ugly_idle.anim
+- Assets/Animations/Bird/BirdUgly/bird_ugly_hurled.anim
+- Assets/Animations/Bird/BirdUgly/BirdUgly.controller
+- Assets/Animations/Bird/BirdUgly/bird_ugly_explode.anim
+- Assets/Animations/Bird/BirdUgly/bird_ugly_die.anim
+- Assets/Resources/Prefabs/GameWorld/Characters/Birds/BirdUgly.prefab
+- Assets/Resources/Materials/UglyBird.physicsMaterial2D
+- Assets/Animations/Bird/BirdUgly/bird_ugly_pressed.anim
+- Assets/Animations/Bird/BirdUgly/bird_ugly_blink.anim
+Dependencies: []

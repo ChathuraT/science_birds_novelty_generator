@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1522365143
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ugly_bird
+      Dependencies: {}
